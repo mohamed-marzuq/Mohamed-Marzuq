@@ -1,9 +1,7 @@
 ### Hello Developers, I'm Mohamed 👋
 
 
-**mohamed-marzuq/Mohamed-Marzuq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**I'm a Web Developer**
 
 - 🔭 I’m currently working as freelancer
 - 🌱 I’m currently learning back-end development
