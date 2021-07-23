@@ -1,7 +1,7 @@
 ### Hello Developers, I'm Mohamed 👋
 
 
-**I'm a Web Developer**
+**Web Developer**
 
 - 🔭 I’m currently working as freelancer
 - 🌱 I’m currently learning back-end development
