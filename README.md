@@ -4,7 +4,7 @@
 **I'm a Web Developer**
 
 - 🔭 I’m currently working as freelancer
-- 📫 I'm Currently dreaming and to buy a laptop
+- 📫 I'm Currently dreaming to buy a laptop
 - 🌱 I’m currently learning back-end development
 - 👯 I’m looking to collaborate on web development
 - 💬 Ask me about Programming
