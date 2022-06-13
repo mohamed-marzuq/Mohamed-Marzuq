@@ -1,12 +1,12 @@
 ### Hello Developers, I'm Mohamed 👋
 
 
-**I'm a Web Developer**
+**I'm a Back-End Web Developer**
 
 <!-- - 🔭 I’m currently working as freelancer -->
 <!-- - 📫 I'm Currently dreaming to buy a laptop -->
 <!-- - 👯 I’m looking to collaborate on web development -->
-- 🌱 I’m currently learning back-end development
+<!-- - 🌱 I’m currently learning back-end development -->
 - 💬 Ask me about JavaScript
 - 📫 Reach me @ mohamedmarzuq2005@gmail.com
 -  ⚡ Fun fact: I'm a 16 year old kid from Kerala, India
