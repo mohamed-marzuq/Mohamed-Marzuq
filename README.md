@@ -9,7 +9,7 @@ const contact = "mohamedmarzuq2005@gmail.com"
 <!-- ⚡ Fun fact: I can live without programming -->
 ![Mohamed's Dynamic GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmarzuq5&show_icons=true&theme=tokyonight)
 
-### Languages and Tools
+## Languages and Tools
 <p>
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript">‎ ‎ ‎ ‎ 
   <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS"> ‎ ‎ ‎ ‎ 
