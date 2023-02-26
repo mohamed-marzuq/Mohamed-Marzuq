@@ -7,3 +7,4 @@ const interest = "BackEnd Development"
 const contact = "mohamedmarzuq2005@gmail.com"
 ```
 <!-- ⚡ Fun fact: I can live without programming -->
+![Mohamed's Dynamic GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmarzuq5&show_icons=true&theme=tokyonight)
