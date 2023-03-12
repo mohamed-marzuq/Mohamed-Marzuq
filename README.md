@@ -2,11 +2,12 @@
 # Hi, I'm Mohamed 👋
 <!-- ## About Me -->
 I'm a 17 year old boy who is highly passionate in web development I love building problem solving projects. I would like to thank [@nikhilkilivayil](https://github.com/nikhilkilivayil), whom the reason why I started my enjoyful programming journey.
-```js
-const interest = "BackEnd Development"
-const contact = "mohamedmarzuq2005@gmail.com"
+```ts
+const interest = 'BackEnd Development'
+const contact = 'mohamedmarzuq2005@gmail.com'
+const funFact⚡ = 'I can live without programming'
 ```
-<!-- ⚡ Fun fact: I can live without programming -->
+
 ![Mohamed's Dynamic GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmarzuq5&show_icons=true&theme=tokyonight)
 
 ## Languages and Tools
