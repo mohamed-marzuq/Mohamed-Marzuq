@@ -8,7 +8,7 @@ const contact = 'mohamedmarzuq2005@gmail.com'
 const funFact⚡ = 'I can live without programming'
 ```
 
-![Mohamed's Dynamic GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmarzuq5&show_icons=true&theme=tokyonight)
+<!-- ![Mohamed's Dynamic GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmarzuq5&show_icons=true&theme=tokyonight) -->
 
 ## Languages and Tools
 <p>
