@@ -9,7 +9,7 @@ const funFact⚡ = 'I can live without programming'
 ```
 
 <!-- ![Mohamed's Dynamic GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmarzuq5&show_icons=true&theme=tokyonight) -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmarzuq5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages and Tools
 <p>
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript">‎ ‎ ‎ ‎
